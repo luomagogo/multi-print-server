@@ -8,4 +8,4 @@ Hp T630另一用途——打印服务器，支持苹果等无线打印。建立�
 
 在 Ubuntu 终端中执行以下命令，即可一键自动完成 Docker 环境搭建及全套服务部署：
 
-curl -fsSL https://raw.githubusercontent.com/luomagogo/%E5%A4%9A%E6%89%93%E5%8D%B0%E6%9C%8D%E5%8A%A1%E5%99%A0/main/deploy.sh | bash
+curl -fsSL https://raw.githubusercontent.com/luomagogo/multi-print-server/refs/heads/main/deploy.sh | bash
